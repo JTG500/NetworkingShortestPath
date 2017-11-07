@@ -1,7 +1,2 @@
-"# Checkers" 
-"# Algorithms" 
-"# Algorithms" 
-"# Algorithms" 
-"# MyOS" 
-"# NetworkingShortestPath" 
-"# NetworkingShortestPath" 
+"#NetworkingShortestPath" 
+Shortest Path algortithm using distance vectors. 
